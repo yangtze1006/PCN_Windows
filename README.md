@@ -3,7 +3,7 @@
 这是[PCN-FaceDetection](https://github.com/Jack-CV/PCN-FaceDetection)移植到windows的工程文件
 
 双击打开code下的PCN.sln编译即可，
-所需:环境VS2015+opencv3.10+Caffe CPU
+所需:环境VS2015+opencv3.10+Caffe CPU，
 Debug版未编译
 
 
