@@ -4,6 +4,7 @@
 
 双击打开code下的PCN.sln编译即可，
 所需:环境VS2015+opencv3.10+Caffe CPU
+Debug版未编译
 
 
 # News
